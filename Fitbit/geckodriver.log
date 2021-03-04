@@ -1,0 +1,969 @@
+1604852180981	geckodriver	INFO	Listening on 127.0.0.1:57367
+1604852181991	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6OMVer"
+*** You are running in headless mode.
+1604852182568	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1604852182866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1604852182866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1604852182866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1604852182866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604852184344	Marionette	INFO	Listening on port 41740
+1604852184413	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604873231189	geckodriver	INFO	Listening on 127.0.0.1:55885
+1604873231201	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFOTqtX"
+1604873231593	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1604873231902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1604873231902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1604873231902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1604873231902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604873233608	Marionette	INFO	Listening on port 41688
+1604873233711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604873258117	geckodriver	INFO	Listening on 127.0.0.1:37288
+1604873258128	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7fC6Am"
+1604873258544	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1604873258864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1604873258865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1604873258865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1604873258865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604873260403	Marionette	INFO	Listening on port 43917
+1604873260449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.audiobooks.com/javascript/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1604873285603	geckodriver	INFO	Listening on 127.0.0.1:38286
+1604873286614	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley0GRS4"
+1604873287000	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1604873287376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1604873287376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1604873287376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1604873287376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604873289099	Marionette	INFO	Listening on port 37414
+1604873289126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.credible.com/personal-loan-prequalification line 1 > scriptElement, line 1: TypeError: d is null
+1604873323257	Marionette	INFO	Stopped listening on port 43917
+1604873324121	Marionette	INFO	Stopped listening on port 41688
+1604873325502	Marionette	INFO	Stopped listening on port 37414
+1604873914539	geckodriver	INFO	Listening on 127.0.0.1:59902
+1604873914549	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebn1SU7"
+1604873914949	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1604873915328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1604873915328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1604873915328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1604873915328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604873916991	Marionette	INFO	Listening on port 43878
+1604873917059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604873944797	geckodriver	INFO	Listening on 127.0.0.1:50491
+1604873945809	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenLSCN2"
+1604873946151	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1604873946478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1604873946478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1604873946478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1604873946478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604873947896	Marionette	INFO	Listening on port 40411
+1604873947928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604873984644	Marionette	INFO	Stopped listening on port 43878
+1604873986127	Marionette	INFO	Stopped listening on port 40411
+1611900007092	geckodriver	INFO	Listening on 127.0.0.1:53359
+1611900007111	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3D3rk9"
+*** You are running in headless mode.
+1611900007801	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1611900008089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1611900008089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1611900008089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1611900008090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611900009871	Marionette	INFO	Listening on port 47037
+1611900009933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1611900034338	geckodriver	INFO	Listening on 127.0.0.1:60505
+1611900035345	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6RWgWq"
+*** You are running in headless mode.
+1611900035622	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1611900035888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1611900035889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1611900035889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1611900035889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611900037371	Marionette	INFO	Listening on port 41390
+1611900037459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=At8birMn2Eg3h9oMmqkNL1, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1611932912885	geckodriver	INFO	Listening on 127.0.0.1:34117
+1611932912890	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO0MGtG"
+1611932914251	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1611932914519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1611932914519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1611932914519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1611932914519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611932916275	Marionette	INFO	Listening on port 47413
+1611932916300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611932941558	geckodriver	INFO	Listening on 127.0.0.1:51906
+1611932941563	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledRHgAY"
+1611932941867	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1611932942139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1611932942139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1611932942139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1611932942139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611932943841	Marionette	INFO	Listening on port 40105
+1611932943871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611937497480	Marionette	INFO	Stopped listening on port 40105
+1611937498805	Marionette	INFO	Stopped listening on port 47413
+1611986404723	geckodriver	INFO	Listening on 127.0.0.1:63471
+1611986404730	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefJlXBG"
+*** You are running in headless mode.
+1611986405009	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1611986405271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1611986405271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1611986405271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1611986405271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611986406745	Marionette	INFO	Listening on port 45466
+1611986406837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1611986431370	geckodriver	INFO	Listening on 127.0.0.1:64540
+1611986431375	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRDxNBk"
+*** You are running in headless mode.
+1611986431634	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1611986431903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1611986431903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1611986431903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1611986431903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611986433477	Marionette	INFO	Listening on port 44729
+1611986433505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FpaHZcVP9QYAk9yvbNEJ9J, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612072808040	geckodriver	INFO	Listening on 127.0.0.1:49344
+1612072808047	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezEdZms"
+*** You are running in headless mode.
+1612072808429	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612072808692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612072808693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612072808693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612072808693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612072810247	Marionette	INFO	Listening on port 40406
+1612072810261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612072834544	geckodriver	INFO	Listening on 127.0.0.1:63164
+1612072834549	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAIDQqa"
+*** You are running in headless mode.
+1612072834810	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612072835083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612072835083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612072835083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612072835083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612072836621	Marionette	INFO	Listening on port 43180
+1612072836660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=MK9Q478HvLUhE6Gvr2txZx, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612159206011	geckodriver	INFO	Listening on 127.0.0.1:42363
+1612159206018	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelTqvTn"
+*** You are running in headless mode.
+1612159206372	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612159206625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612159206625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612159206625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612159206625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612159208096	Marionette	INFO	Listening on port 41432
+1612159208146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612159232634	geckodriver	INFO	Listening on 127.0.0.1:63287
+1612159232638	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemkGRAR"
+*** You are running in headless mode.
+1612159232891	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612159233147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612159233148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612159233148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612159233148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612159234695	Marionette	INFO	Listening on port 36915
+1612159234751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612245603622	geckodriver	INFO	Listening on 127.0.0.1:50548
+1612245603628	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXdmFJi"
+*** You are running in headless mode.
+1612245603893	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612245604953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612245604953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612245604954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612245604954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612245606591	Marionette	INFO	Listening on port 34004
+1612245606637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612245633281	geckodriver	INFO	Listening on 127.0.0.1:42383
+1612245633286	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7rkKI9"
+*** You are running in headless mode.
+1612245633557	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612245633847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612245633847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612245633847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612245633847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612245635496	Marionette	INFO	Listening on port 34157
+1612245639398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612332006909	geckodriver	INFO	Listening on 127.0.0.1:64513
+1612332006915	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel72dDP"
+*** You are running in headless mode.
+1612332007188	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612332007474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612332007474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612332007474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612332007474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612332009053	Marionette	INFO	Listening on port 45714
+1612332009132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612332033749	geckodriver	INFO	Listening on 127.0.0.1:63732
+1612332033753	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaUKsfB"
+*** You are running in headless mode.
+1612332034013	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612332034280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612332034280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612332034280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612332034280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612332035860	Marionette	INFO	Listening on port 43803
+1612332037961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=5TqvNQZz8wA7Mjg4H68n2j, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612418403168	geckodriver	INFO	Listening on 127.0.0.1:61334
+1612418403173	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQAlsRW"
+*** You are running in headless mode.
+1612418403486	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612418405683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612418405683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612418405683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612418405683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612418407218	Marionette	INFO	Listening on port 49138
+1612418407285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612418431672	geckodriver	INFO	Listening on 127.0.0.1:47563
+1612418431676	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletPgHCT"
+*** You are running in headless mode.
+1612418431938	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612418432205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612418432205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612418432205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612418432205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612418433720	Marionette	INFO	Listening on port 40845
+1612418433792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612504807443	geckodriver	INFO	Listening on 127.0.0.1:52165
+1612504807449	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGzjtHF"
+*** You are running in headless mode.
+1612504807724	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612504808002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612504808002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612504808003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612504808003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612504809753	Marionette	INFO	Listening on port 42589
+1612504809775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-plKPLf6p71oNNG7UjQIgbEi54we5J2cCQvzf65eCf8.js line 1 > eval line 7627 > eval, line 1: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-plKPLf6p71oNNG7UjQIgbEi54we5J2cCQvzf65eCf8.js line 1 > eval line 7627 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-plKPLf6p71oNNG7UjQIgbEi54we5J2cCQvzf65eCf8.js line 1 > eval line 7627 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612504834244	geckodriver	INFO	Listening on 127.0.0.1:46672
+1612504834248	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCfHzAD"
+*** You are running in headless mode.
+1612504834513	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1612504834791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612504834791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612504834791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612504834791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612504836436	Marionette	INFO	Listening on port 35262
+1612504836459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=FrQ6wJB2gZL6zQcyCxLg85, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613141847149	geckodriver	INFO	Listening on 127.0.0.1:49895
+1613141847155	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewKX79s"
+*** You are running in headless mode.
+1613141847447	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1613141847729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613141847729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613141847729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613141847729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1613141849418	Marionette	INFO	Listening on port 32787
+1613141849469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613141873582	geckodriver	INFO	Listening on 127.0.0.1:53845
+1613141874587	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG0JCsh"
+*** You are running in headless mode.
+1613141874859	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1613141875147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613141875147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613141875147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613141875147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1613141876799	Marionette	INFO	Listening on port 36565
+1613141876904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613328883086	geckodriver	INFO	Listening on 127.0.0.1:61301
+1613328883091	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLnMMow"
+*** You are running in headless mode.
+1613328883478	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1613328883733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613328883733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613328883733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613328883733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1613328885235	Marionette	INFO	Listening on port 33759
+1613328885316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613328911824	geckodriver	INFO	Listening on 127.0.0.1:48322
+1613328911829	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledmDgq3"
+*** You are running in headless mode.
+1613328912103	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1613328912363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613328912363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613328912363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613328912363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1613328913901	Marionette	INFO	Listening on port 34877
+1613328919141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613750598876	geckodriver	INFO	Listening on 127.0.0.1:54038
+1613750599887	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6aengz"
+*** You are running in headless mode.
+1613750600445	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1613750600834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613750600835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613750600835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613750600835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1613750602453	Marionette	INFO	Listening on port 34404
+1613750602499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613750627397	geckodriver	INFO	Listening on 127.0.0.1:58358
+1613750628410	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoUPGDD"
+*** You are running in headless mode.
+1613750628785	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1613750629180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613750629181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613750629181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613750629181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1613750630620	Marionette	INFO	Listening on port 35903
+1613750630719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614271112642	geckodriver	INFO	Listening on 127.0.0.1:64591
+1614271113653	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYx9gPw"
+*** You are running in headless mode.
+1614271114204	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614271114625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614271114625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614271114625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614271114625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614271116184	Marionette	INFO	Listening on port 45948
+1614271116291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614271140813	geckodriver	INFO	Listening on 127.0.0.1:54872
+1614271141824	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqP2AwK"
+*** You are running in headless mode.
+1614271142136	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614271142579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614271142579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614271142580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614271142580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614271144248	Marionette	INFO	Listening on port 36462
+1614271144338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://thebig-prizebox4.life/?u=q2akd0d&o=w3kh53n&t=zero_ms_des&cid=%7Bclicid%7D&cid=Xs6M8chCEh1bFRG9qn5SQY, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614319205366	geckodriver	INFO	Listening on 127.0.0.1:50889
+1614319205375	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg9J0IH"
+*** You are running in headless mode.
+1614319205710	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614319206087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614319206087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614319206087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614319206088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614319207570	Marionette	INFO	Listening on port 36163
+1614319207600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614319232526	geckodriver	INFO	Listening on 127.0.0.1:61635
+1614319233537	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevJ33jV"
+*** You are running in headless mode.
+1614319233836	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614319234157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614319234157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614319234157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614319234157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614319235361	Marionette	INFO	Listening on port 43752
+1614319235445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://connect.facebook.net/signals/config/1505598476417668?v=2.9.35&r=canary, line 1: SyntaxError: invalid regexp group
+1614643396862	geckodriver	INFO	Listening on 127.0.0.1:57280
+1614643397513	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezLzsII"
+*** You are running in headless mode.
+1614643398563	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614643399034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614643399034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614643399035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614643399035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614643401038	Marionette	INFO	Listening on port 36284
+1614643401137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614644992483	geckodriver	INFO	Listening on 127.0.0.1:41448
+1614644992493	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Cte3q"
+*** You are running in headless mode.
+1614644992831	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614644993250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614644993250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614644993250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614644993251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614644994755	Marionette	INFO	Listening on port 41378
+1614644994805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614645170644	geckodriver	INFO	Listening on 127.0.0.1:37606
+1614645170657	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Bjrfg"
+*** You are running in headless mode.
+1614645171078	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614645171487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614645171488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614645171488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614645171488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614645173208	Marionette	INFO	Listening on port 41895
+1614645173277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614645290159	geckodriver	INFO	Listening on 127.0.0.1:56160
+1614645290168	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXo7JKX"
+*** You are running in headless mode.
+1614645290532	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614645290966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614645290967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614645290967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614645290967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614645292654	Marionette	INFO	Listening on port 48874
+1614645292691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.warn: services.settings: Signature verified failed for main/normandy-recipes-capabilities. Retry from scratch
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/normandy-recipes-capabilities)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:132:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:716:13
+
+1614645409953	geckodriver	INFO	Listening on 127.0.0.1:43764
+1614645410966	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVseGPJ"
+*** You are running in headless mode.
+1614645411346	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614645411775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614645411775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614645411775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614645411775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614645413605	Marionette	INFO	Listening on port 37138
+1614645413696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614645439034	geckodriver	INFO	Listening on 127.0.0.1:42623
+1614645440046	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileertNTc"
+*** You are running in headless mode.
+1614645440431	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614645440914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614645440914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614645440914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614645440914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614645442620	Marionette	INFO	Listening on port 39680
+1614645442678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.warn: services.settings: Signature verified failed for main/normandy-recipes-capabilities. Retry from scratch
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/normandy-recipes-capabilities)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:132:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:716:13
+
+console.warn: services.settings: Signature verified failed for main/normandy-recipes-capabilities. Retry from scratch
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/normandy-recipes-capabilities)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:132:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:716:13
+
+1614751207395	geckodriver	INFO	Listening on 127.0.0.1:44207
+1614751208055	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesnij8W"
+*** You are running in headless mode.
+1614751209635	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614751210243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614751210243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614751210244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614751210244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614751211903	Marionette	INFO	Listening on port 40143
+1614751211974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614751299680	geckodriver	INFO	Listening on 127.0.0.1:62823
+1614751299693	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBtEYmf"
+*** You are running in headless mode.
+1614751300092	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614751300519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614751300519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614751300519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614751300519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614751301969	Marionette	INFO	Listening on port 48692
+1614751302002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614837608399	geckodriver	INFO	Listening on 127.0.0.1:60318
+1614837609409	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJrZlrX"
+*** You are running in headless mode.
+1614837610469	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614837611036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614837611036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614837611037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614837611037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614837612867	Marionette	INFO	Listening on port 33749
+1614837612930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614837637809	geckodriver	INFO	Listening on 127.0.0.1:45030
+1614837638823	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2r7UIu"
+*** You are running in headless mode.
+1614837639167	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614837639542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614837639543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614837639543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614837639543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614837641113	Marionette	INFO	Listening on port 34699
+1614837641170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614852035295	geckodriver	INFO	Listening on 127.0.0.1:33635
+1614852036307	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaVFCaf"
+*** You are running in headless mode.
+1614852037422	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614852037903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614852037903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614852037904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614852037904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614852039647	Marionette	INFO	Listening on port 39828
+Fontconfig error: Cannot load default config file
+1614852039746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eu7jfLqbA_SrKotVk2KNeEjSxiQIb3iw8Llt0poV4Fw.js line 1 > eval line 1976 > eval line 1 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eu7jfLqbA_SrKotVk2KNeEjSxiQIb3iw8Llt0poV4Fw.js line 1 > eval line 1976 > eval line 1 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614852067648	geckodriver	INFO	Listening on 127.0.0.1:44032
+1614852068661	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile52xjp3"
+*** You are running in headless mode.
+1614852069045	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614852069418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614852069419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614852069419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614852069419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614852070975	Marionette	INFO	Listening on port 39622
+1614852071080	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot load default config file
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614853585588	geckodriver	INFO	Listening on 127.0.0.1:38722
+1614853586602	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeH8vn6"
+*** You are running in headless mode.
+1614853587049	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614853587459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614853587460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614853587460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614853587460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614853589034	Marionette	INFO	Listening on port 33886
+1614853589118	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot load default config file
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1614853613988	geckodriver	INFO	Listening on 127.0.0.1:46423
+1614853615003	mozrunner::runner	INFO	Running command: "/class/datamine/apps/firefox/firefox" "--marionette" "window-size=1920,1080" "--headless" "start-maximized" "--disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLir9Gv"
+*** You are running in headless mode.
+1614853615452	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1614853615849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1614853615850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1614853615850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1614853615850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614853617493	Marionette	INFO	Listening on port 45649
+1614853617534	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig error: Cannot load default config file
+JavaScript warning: https://affbank.com/js/metrika/tag.js, line 113: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://affbank.com/js/metrika/tag.js, line 113: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://affbank.com/js/metrika/tag.js, line 113: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://affbank.com/js/metrika/tag.js, line 113: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENf8c52f790a414711892d83d4b560e344.min.js, line 2: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
