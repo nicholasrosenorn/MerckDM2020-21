@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block content %}
+	<h1>Welcome!</h1>
+
+	<div class="content-section">
+		<h2>Currently Enrolled Subjects</h2>
+		<ul>
+			{% for patient in patients %}
+				<li>{{ patient.first_name  }} {{ patient.last_name }}</li>
+			{% endfor %}
+		</ul>
+	</div>
+{% endblock %}

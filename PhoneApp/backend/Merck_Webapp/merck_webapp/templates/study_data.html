@@ -1,0 +1,73 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="content-section">
+        <form action="" method="POST">
+        {{ form.hidden_tag() }}
+            <fieldset>
+                <div class="form-group">
+                    {{ form.username.label(class="form-control-label") }}
+
+                    {% if form.username.errors %}
+                        {{ form.username(class="form-control form-control-lg is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.username.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.username(class="form-control form-control-lg") }}
+                    {% endif %}
+                </div>
+                <div class="form-group">
+                    {{ form.input_date.label(class="form-control-label") }}
+
+                    {% if form.input_date.errors %}
+                        {{ form.input_date(class="form-control form-control-lg is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.input_date.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.input_date(class="form-control form-control-lg") }}
+                    {% endif %}
+                </div>
+                <div class="form-group">
+                    {{ form.family_history.label(class="form-control-label") }}
+
+                    {% if form.family_history.errors %}
+                        {{ form.family_history(class="form-control form-control-lg is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.family_history.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.family_history(class="form-control form-control-lg") }}
+                    {% endif %}
+                </div>
+                <div class="form-group">
+                    {{ form.diagnostic_notes.label(class="form-control-label") }}
+
+                    {% if form.diagnostic_notes.errors %}
+                        {{ form.diagnostic_notes(class="form-control form-control-lg is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.diagnostic_notes.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.diagnostic_notes(class="form-control form-control-lg") }}
+                    {% endif %}
+                </div>
+                <p>
+                    {{ form.submit_data() }}
+                </p>
+
+            </fieldset>
+            
+
+        </form>
+    </div>
+	
+{% endblock content %}
