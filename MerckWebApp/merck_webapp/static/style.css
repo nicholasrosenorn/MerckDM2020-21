@@ -1,0 +1,133 @@
+body {
+    background: -webkit-linear-gradient(left, #00857C, #b0ece8);
+    background-color: #3F51B5 !important;
+    height: 100% !important;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.main {
+    background-color: #FFFFFF;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px 10px 20px;
+    margin: 7em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+
+.main_standard {
+    background-color: #FFFFFF;
+    width: 100%;
+    margin: 7em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+
+.sign {
+    color: #00857C;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+form.form1 {
+    padding-top: 40px;
+}
+
+.input_fields {
+    width: 300px;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 133, 124, 0.5);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.input_field:focus {
+    border: 2px solid rgba(0, 0, 0, 0.18) !important;
+    
+}
+
+.submit_button {
+    cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background-color: #00857C; /*linear-gradient(to right, #00cc99, #00ffff);*/
+    border: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    text-align: center;
+}
+
+.submit_button:hover{
+    background-color: #4FB4AD;
+}
+
+.extra_text {
+    color: #00857C;
+    padding-top: 15px;
+}
+
+a {
+    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+    color: #00857C;
+    text-decoration: none;
+}
+a:hover {
+    color: #4FB4AD;
+}
+
+@media (max-width: 600px) {
+    .main {
+        border-radius: 0px;
+    }
+    
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+.bg-mint {
+  background-image: linear-gradient(to right, #ffffff 65%, #00857C 35%);
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.flashes {
+    color: black;
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+body {
+    background: -webkit-linear-gradient(left, #00857C, #b0ece8);
+    background-color: #3F51B5 !important;
+    height: 100% !important;
+    margin-top: 6rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+.bg-mint {
+  background: #ffffff;
+  /*background-image: linear-gradient(to right, #ffffff 65%, #00857C 35%);
+  */
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #00857C;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #4FB4AD;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}

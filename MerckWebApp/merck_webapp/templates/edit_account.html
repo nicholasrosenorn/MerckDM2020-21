@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='edit_account.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<div class="main_container">
+    <div class="card">
+        <h3 class="card_title"><b>Edit Account</b></h3>
+        <form action="" method="POST">
+            {{ form.csrf_token}}
+            <div class="form-group">
+                {{ form.email(class="input_fields", type="text", align="center", placeholder="Email") }}
+            </div>
+            <div class="form-group">
+                {{ form.password(class="input_fields", type="password", align="center", placeholder="Password") }}
+            </div>
+            {% if form.email.errors %}
+            <div class="errors">
+                {% for error in form.email.errors %}
+                <p>{{ error }}{% endfor %}</p>
+            </div>
+            {% endif %}
+            {% if form.password.errors %}
+            <ul class="errors">{% for error in form.password.errors %}<li>{{ error }}{% endfor %}</li>
+            </ul>
+            {% endif %}
+            <p>{{ form.submit_update(class="button") }}</p>
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            <ul class="flashes">
+                {% for message in messages %}
+                <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            {% endwith %}
+        </form>
+    </div>
+</div>
+
+</html>
+{% endblock %}

@@ -1,0 +1,40 @@
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  <title>Sign In</title>
+</head>
+
+<body>
+  <div class="main">
+    <p class="sign" align="center">Sign In</p>
+    <form action="" method="POST">
+      {{ form.csrf_token }}
+      <div class="form-group">
+        {{ form.email(class="input_fields", type="text", align="center", placeholder="Email") }}
+      </div>
+      <div class="form-group">
+        {{ form.password(class="input_fields", type="password", align="center", placeholder="Password") }}
+      </div>
+      <p>{{ form.submit_login(class="submit_button") }}</p>
+      {% with messages = get_flashed_messages() %}
+      {% if messages %}
+      <ul class="flashes">
+        {% for message in messages %}
+        <p>{{ message }}
+        <p>
+          {% endfor %}
+      </ul>
+      {% endif %}
+      {% endwith %}
+    </form>
+    <p class="extra_text" align="center"><a href="#">Forgot Password?</p>
+    <p class="extra_text" align="center"><a href="create_account">Create New Account</p>
+  </div>
+
+</body>
+
+</html>

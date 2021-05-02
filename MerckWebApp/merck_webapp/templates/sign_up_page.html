@@ -1,0 +1,46 @@
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  <title>Create Account</title>
+</head>
+
+<body>
+  <div class="main">
+    <p class="sign" align="center">Create Account</p>
+    <form action="" method="POST">
+      {{ form.csrf_token }}
+      <div class="form-group">
+        {{ form.email(class="input_fields", type="text", align="center", placeholder="Email") }}
+      </div>
+      <div class="form-group">
+        {{ form.password(class="input_fields", type="password", align="center", placeholder="Password") }}
+
+      </div>
+      <div class="form-group">
+        {{ form.confirm_password(class="input_fields", type="password", align="center", placeholder="Confirm Password")
+        }}
+      </div>
+      {% if form.password.errors %}
+      <ul class="errors">{% for error in form.password.errors %}<li>{{ error }}{% endfor %}</li>
+      </ul>
+      {% endif %}
+      {% if form.confirm_password.errors %}
+      <ul class="errors">{% for error in form.confirm_password.errors %}<li>{{ error }}{% endfor %}</li>
+      </ul>
+      {% endif %}
+      {% if form.email.errors %}
+      <ul class="errors">{% for error in form.email.errors %}<p>{{ error }}{% endfor %}</p>
+      </ul>
+      {% endif %}
+      <p>{{ form.submit_signup(class="submit_button") }}</p>
+    </form>
+    <p class="extra_text" align="center"><a href="login">Login</p>
+  </div>
+
+</body>
+
+</html>

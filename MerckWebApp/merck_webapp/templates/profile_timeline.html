@@ -1,0 +1,249 @@
+{% extends "layout.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Patient Profile</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='profile_style.css') }}">
+</head>
+{% macro render_modal(survey) -%}
+<div class="modal fade" id="exampleModal{{survey.image}}" tabindex="-1"
+    aria-labelledby="exampleModalLabel{{survey.image}}" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="esurveyModalTitle">
+                    {{calendar.day_name[survey.input_date.weekday()]}} -
+                    {{survey.input_date.day}}
+                    {{calendar.month_name[survey.input_date.month]}},
+                    {{survey.input_date.year}}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <img src="https://merck-user-images.s3.us-east-2.amazonaws.com/{{survey.image}}" alt="">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Patient ID</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.patient_id}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Happiness</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.happiness}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Sleep</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.sleep}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Hours Worked</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.hours_worked}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Unnusual Symptoms</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.unusual_symptoms}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Meals</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.meals}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Medication taken</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.medication_timing}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Smoked/Drank Alcohol</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.smoking_alcohol}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Medications</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.other_medication}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Water Intake (oz)</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.water_intake}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Diagnosis for other illnesses</label>
+                    </div>
+                    <div class="col-md-6">
+                        <p>{{survey.diagnosis}}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+{%- endmacro%}
+
+<div class="container emp-profile">
+    <div class="card-container">
+        <form method="POST">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="profile-img">
+                        <img src="https://merck-user-images.s3.us-east-2.amazonaws.com/{{patient.image}}" alt="" />
+                        <div class="file btn btn-lg btn-primary">
+                            Change Photo
+                            <input type="file" name="file" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="profile-head">
+                        <h5>
+                            {{ patient.first_name }} {{ patient.last_name }}
+                        </h5>
+                        <h6>
+                            Tested for {{ patient.purpose }}
+                        </h6>
+                        <p class="proile-rating">Number of Days Observed : <span>15</span></p>
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-target="home"
+                                    href="{{ url_for('profile_home', patient_id=patient.patient_id) }}" role="tab"
+                                    aria-controls="home" aria-selected="false">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" id="profile-tab" data-target="profile"
+                                    href="{{ url_for('profile_timeline', patient_id=patient.patient_id) }}" role="tab"
+                                    aria-controls="profile" aria-selected="true">Surveys</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="notes-tab" data-target="notes"
+                                    href="{{ url_for('profile_notes', patient_id=patient.patient_id) }}" role="tab"
+                                    aria-controls="notes" aria-selected="false">Notes</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="notes-tab" data-target="notes"
+                                    href="{{ url_for('patient_fitbit_data', patient_id=patient.patient_id) }}"
+                                    role="tab" aria-controls="notes" aria-selected="false">Fitbit Data</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <a class="btn btn-primary" href="{{ url_for('patients') }}" role="button">Close Profile</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="profile-work">
+                        <p>DATA LINKS</p>
+                        <a href="">Visualizations</a><br />
+                        <a href="">Analysis</a><br />
+                        <a href="">Videos</a>
+                    </div>
+                </div>
+                <div class="col-md-8 vertical-scrollable">
+                    <div class="tab-content profile-tab" id="myTabContent">
+                        <div class="tab-pane fade" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        </div>
+                        <div class="tab-pane fade show active" id="profile" role="tabpanel"
+                            aria-labelledby="profile-tab">
+                            {% if surveys %}
+                            {% for survey in surveys %}
+                            <div class="card mt-2 border-5 pt-0 active pb-0 px-3">
+                                <div class="card-body">
+                                    <div class="row align-items-center">
+                                        <div class="col-10">
+                                            <h4 class="card-title">
+                                                <h5>{{calendar.day_name[survey.input_date.weekday()]}} -
+                                                    {{survey.input_date.day}}
+                                                    {{calendar.month_name[survey.input_date.month]}},
+                                                    {{survey.input_date.year}}</h5>
+                                            </h4>
+                                        </div>
+                                        <div class="col-2 align-self-center">
+                                            <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                data-bs-target="#exampleModal{{survey.image}}">
+                                                View
+                                            </button>
+                                            {{render_modal(survey)}}
+                                        </div>
+                                        <div class="col-10">
+                                            <h6 class="card-subtitle mb-2 text-muted">
+                                                <p class="card-text text-muted small "> <img
+                                                        src="https://img.icons8.com/metro/26/000000/star.png"
+                                                        class="mr-1 " width="19" height="19" id="star"> <span
+                                                        class="vl mr-2 ml-0"></span>
+                                                    Created by <span class="font-weight-bold">{{ patient.first_name }}
+                                                        {{ patient.last_name }}</span>
+                                                    on {{survey.input_date.day}}
+                                                    {{calendar.month_name[survey.input_date.month]}},
+                                                    {{survey.input_date.year}}</p>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                            {% else %}
+                            <div class="alert alert-danger mt-0">
+                                No data to display
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+</html>
+
+{% endblock %}

@@ -1,0 +1,69 @@
+body {
+    background: -webkit-linear-gradient(left, #00857C, #b0ece8);
+    background-color: #3F51B5 !important;
+    height: 100% !important;
+    font-family: 'Ubuntu', sans-serif;
+}
+.card {
+    background-color: #FFFFFF;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px 10px 20px;
+    margin: 10em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+    text-align: center;
+  }
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  .button {
+    border: none;
+    border-radius: 5em;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #00857C;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    overflow: hidden; 
+    border-style: inset; 
+    border-width: 1px;
+  }
+  .button:hover{
+    background-color: #4FB4AD;
+  }
+  a {
+    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+    color: #00857C;
+    text-decoration: none;
+  }
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  div.main_container {
+      margin-top: 100px;
+  }
+
+.main {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    }
+
+.errors {
+  color: black;
+  text-align: center;
+}
+
+.card_title {
+    padding: 1em;
+}
